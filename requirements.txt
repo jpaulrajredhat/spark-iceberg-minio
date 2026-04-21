@@ -1,7 +1,7 @@
 kafka-python==2.0.2
 Pyspark==3.5.1
 pyyaml==6.0
-python-dotenv==0.20.0
+python-dotenv==1.2.2
 confluent-kafka
 sqlalchemy-trino
 py4j
@@ -12,7 +12,7 @@ pandas
 grpcio
 grpcio-status
 googleapis-common-protos
-python-dotenv==0.20.0
+python-dotenv==1.2.2
 confluent-kafka
 numpy
 xgboost
